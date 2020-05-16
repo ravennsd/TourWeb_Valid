@@ -1,0 +1,45 @@
+
+body{
+    margin:0px;
+    padding:0px;
+    background-color: rgba(156, 187, 176, 0.733);
+}
+.navbar-custom{
+background-color: rgb(4, 5, 5);
+color: rgb(4, 121, 18);
+}
+
+li a{
+    color:rgb(162, 170, 163);
+ 
+    font-size: 17px;
+}
+li{
+    float:center;
+    padding-right:30px;
+    padding-left: 30px;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin:0PX;
+    overflow: hidden;
+
+}
+.container-fluid{
+    width:100%;
+    margin:0px;  
+    padding: 0%;
+    
+}
+.display-1{
+   
+   text-align: center;
+}
+
+.carousal-inner{
+    width:100%;
+}
+.display-1{
+    color:black;
+}

@@ -1,0 +1,62 @@
+
+
+.container{
+    color: black;
+    
+}
+body{
+    background-color:rgba(187, 209, 201, 0.733);
+}
+.jumbotron{
+    padding:30px;
+    margin:30px;
+    background-color:rgb(13, 180, 22) ;
+   
+}
+#format{
+
+    color: rgb(231, 236, 234);
+}
+.navbar-custom{
+    background-color: rgba(4, 5, 5, 0.863);
+    color: rgb(4, 121, 18);
+    height:5rem;
+    
+    }
+    
+    li a{
+        color:rgb(7, 129, 21);
+     
+        font-size: 17px;
+        font-weight: 500;
+    }
+    li{
+        float:center;
+        padding-right:30px;
+        padding-left: 30px;
+    }
+    ul{
+        list-style-type: none;
+        padding: 0px;
+        margin:0PX;
+        overflow: hidden;
+    
+    }
+    .container-fluid{
+        width:100%;
+        margin:0px;  
+        padding:0%; 
+        
+    }
+    #pasFormat{
+        color: rgb(219, 240, 224);
+    }
+    #head {
+        text-align: center;
+        border-color: blanchedalmond;
+        letter-spacing: 1em;
+        font-style: bold;
+        padding:0px;
+        margin:0px;
+
+    }
